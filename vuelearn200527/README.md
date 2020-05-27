@@ -1,6 +1,6 @@
-# vue_zs
+# vuelearn200527
 
-> learnvue
+> A Vue.js project
 
 ## Build Setup
 
